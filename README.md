@@ -9,7 +9,7 @@ This Amazon Price Alert script monitors the price of a specific product on Amazo
 - Customizable product URL and price threshold.
 
 ## Requirements
-- Python 3.x
+- Python 3.10.9
 - BeautifulSoup4
 - requests
 - smtplib
