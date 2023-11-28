@@ -23,8 +23,9 @@ Update the script with your email credentials and the Amazon product URL.
 
 ## Usage
 1. Run the script using Python:
-  ```bash
-python amazon_price_alert.py
+   ```bash
+   python amazon_price_alert.py
+
 2. The script will periodically check the specified Amazon product page.
 3. If the product price falls below your set threshold, you will receive an email alert.
 
